@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
-  <img src="project%20demonstration/dashboard.png" alt="EduPortal Main Dashboard Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="project%20demonstration/log_in.png" alt="EduPortal Login & Server Setup" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 </p>
 
 </div>
