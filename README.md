@@ -14,6 +14,12 @@
 
 > Runs entirely on your **local network** — no cloud infrastructure required (except the optional AI feature).
 
+<br/>
+
+<p align="center">
+  <img src="project%20demonstration/dashboard.png" alt="EduPortal Main Dashboard Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+</p>
+
 </div>
 
 ---
@@ -21,6 +27,8 @@
 ## 📑 Table of Contents
 
 - [What Is This Project?](#-what-is-this-project)
+- [Visual Showcase & Tour](#-visual-showcase--tour)
+- [Video Demonstrations](#-video-demonstrations)
 - [Features](#-features)
   - [Authentication & User Management](#-authentication--user-management)
   - [Personal Dashboard](#-personal-dashboard)
@@ -38,13 +46,34 @@
 
 ## 🌟 What Is This Project?
 
-**Smart Exam System** is a full-featured, LAN-based academic desktop application built entirely in **Java 21 + JavaFX**. It runs on your local network with zero cloud dependency (except the optional AI feature), making it perfect for classrooms, study groups, or any environment where you want a self-contained, real-time academic platform.
+**EduPortal** is a full-featured, LAN-based academic desktop platform built entirely in **Java 21 + JavaFX**. It runs seamlessly on your local network with zero cloud dependency (except the optional Gemini AI feature), making it ideal for classrooms, dorms, study groups, or competitive peer exams.
+
+---
+
+## 📸 Visual Showcase & Tour
+
+Explore EduPortal's user experience across all key modules:
+
+| 🔐 Authentication & Server Connect | 🏠 Personal Dashboard & Planner |
+|:---:|:---:|
+| <a href="project%20demonstration/log_in.png"><img src="project%20demonstration/log_in.png" alt="Login & Server Connection" width="100%"/></a> | <a href="project%20demonstration/dashboard.png"><img src="project%20demonstration/dashboard.png" alt="Student Dashboard" width="100%"/></a> |
+| **📚 Course & Syllabus Tracker** | **📝 Live Timed Exam Engine** |
+| <a href="project%20demonstration/course.png"><img src="project%20demonstration/course.png" alt="Courses and Syllabus" width="100%"/></a> | <a href="project%20demonstration/exam.png"><img src="project%20demonstration/exam.png" alt="Timed Exam Taking Interface" width="100%"/></a> |
+| **⚔️ Real-Time Challenge Mode** | **💬 LAN Instant Messenger** |
+| <a href="project%20demonstration/challenge.png"><img src="project%20demonstration/challenge.png" alt="Real-time Challenge Arena" width="100%"/></a> | <a href="project%20demonstration/messenger.png"><img src="project%20demonstration/messenger.png" alt="Live LAN Messenger" width="100%"/></a> |
+| **🤖 Gemini AI Study Assistant** | **🎬 Video Demonstrations** |
+| <a href="project%20demonstration/ai.png"><img src="project%20demonstration/ai.png" alt="AI Chat Assistant" width="100%"/></a> | 🎬 [**Full System Demo (.mp4)**](project%20demonstration/full.mp4)<br/><br/>⚡ [**Challenge Mode Duel (.mp4)**](project%20demonstration/challenge.mp4) |
+
 
 ---
 
 ## ✨ Features
 
 ### 🔐 Authentication & User Management
+
+<p align="center">
+  <img src="project%20demonstration/log_in.png" alt="EduPortal Authentication & Server Setup" width="90%" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.12);" />
+</p>
 
 Getting started is effortless. Users sign up with a username and password, then log in by entering the server's IP address (by default `localhost`) — making multi-user sessions across a LAN instant and painless.
 
@@ -58,6 +87,10 @@ Getting started is effortless. Users sign up with a username and password, then 
 ---
 
 ### 🏠 Personal Dashboard
+
+<p align="center">
+  <img src="project%20demonstration/dashboard.png" alt="EduPortal Personal Dashboard" width="90%" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.12);" />
+</p>
 
 Your command center. The moment you log in, you land on a clean, maximized dashboard with a collapsible sidebar — giving you instant access to every module without clutter.
 
@@ -73,6 +106,10 @@ Your command center. The moment you log in, you land on a clean, maximized dashb
 
 ### 📚 Courses & Syllabus Viewer
 
+<p align="center">
+  <img src="project%20demonstration/course.png" alt="EduPortal Courses & Syllabus Viewer" width="90%" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.12);" />
+</p>
+
 Stay organized with a structured overview of your academic content.
 
 - **Course Browser** — view all available courses in a clean list layout
@@ -86,6 +123,10 @@ Stay organized with a structured overview of your academic content.
 ---
 
 ### 📝 Exam Module — Full Lifecycle Management
+
+<p align="center">
+  <img src="project%20demonstration/exam.png" alt="EduPortal Timed Exam Interface" width="90%" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.12);" />
+</p>
 
 The exam system supports the complete lifecycle: **Creation → Assignment → Taking → Grading → Results** — all in real time over the network.
 
@@ -114,6 +155,10 @@ The exam system supports the complete lifecycle: **Creation → Assignment → T
 ---
 
 ### ⚔️ Challenge Mode — Real-Time Academic Duels
+
+<p align="center">
+  <img src="project%20demonstration/challenge.png" alt="EduPortal Challenge Mode" width="90%" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.12);" />
+</p>
 
 Challenge Mode turns exam content into a live, real-time multiplayer experience — like a quiz game show running entirely on your local network.
 
@@ -145,6 +190,10 @@ The unique twist — players don't just answer questions, they **write questions
 
 ### 💬 Real-Time Messenger
 
+<p align="center">
+  <img src="project%20demonstration/messenger.png" alt="EduPortal Real-Time Messenger" width="90%" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.12);" />
+</p>
+
 A fully functional instant messaging system built directly into the platform — no third-party app needed.
 
 - **Direct Messages** — start a one-on-one conversation with any online user; messages arrive instantly
@@ -160,6 +209,10 @@ A fully functional instant messaging system built directly into the platform —
 
 ### 🤖 AI Study Assistant (Gemini-Powered)
 
+<p align="center">
+  <img src="project%20demonstration/ai.png" alt="EduPortal AI Study Assistant" width="90%" style="border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.12);" />
+</p>
+
 An intelligent, conversational AI tutor is built right into the app — powered by **Google Gemini**, one of the most capable AI models available.
 
 - **Multi-Turn Conversations** — the AI remembers everything said earlier in your session, allowing natural follow-up questions
@@ -169,6 +222,19 @@ An intelligent, conversational AI tutor is built right into the app — powered 
 - **Typing Indicator** — an animated indicator shows when the AI is generating a response
 - **Copy to Clipboard** — copy any AI response with a single click
 - **Clear Chat** — reset the conversation and start fresh whenever you need
+
+---
+
+## 🎥 Video Demonstrations
+
+Full video walkthroughs are included directly in the repository to demonstrate the live functionality:
+
+| Video Demo | Highlights | File Link |
+|---|---|:---:|
+| 🎬 **Full Project Demonstration** | • Server setup & multi-client LAN connection<br/>• Student dashboard with to-do list & deadline tracking<br/>• Syllabus exploration & course structure import/export<br/>• Exam creation, targeted assignment & timed exam taking<br/>• Real-time peer messaging & chat rooms<br/>• Gemini AI multimodal study assistant | [▶️ **full.mp4**](project%20demonstration/full.mp4) |
+| ⚡ **Challenge Mode Walkthrough** | • Live challenge room creation & player ready lobby<br/>• Speed Mode fast-paced question races<br/>• Swap Duel mode: custom question writing & peer grading<br/>• Live leaderboards & score breakdowns | [▶️ **challenge.mp4**](project%20demonstration/challenge.mp4) |
+
+> 💡 **Tip:** Click on the links above to view or download the demonstration videos.
 
 ---
 
